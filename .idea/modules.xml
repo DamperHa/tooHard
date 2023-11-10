@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/openSource/python/DeepSORT_YOLOv5_Pytorch/.idea/DeepSORT_YOLOv5_Pytorch.iml" filepath="$USER_HOME$/openSource/python/DeepSORT_YOLOv5_Pytorch/.idea/DeepSORT_YOLOv5_Pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/third_api/mmdetection3d/.idea/mmdetection3d.iml" filepath="$PROJECT_DIR$/src/third_api/mmdetection3d/.idea/mmdetection3d.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tooHard.iml" filepath="$PROJECT_DIR$/.idea/tooHard.iml" />
+      <module fileurl="file://$USER_HOME$/openSource/python/yolo3-pytorch/.idea/yolo3-pytorch.iml" filepath="$USER_HOME$/openSource/python/yolo3-pytorch/.idea/yolo3-pytorch.iml" />
+      <module fileurl="file://$USER_HOME$/openSource/python/yolov7/.idea/yolov7.iml" filepath="$USER_HOME$/openSource/python/yolov7/.idea/yolov7.iml" />
     </modules>
   </component>
 </project>
